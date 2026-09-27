@@ -1,0 +1,277 @@
+[ {
+  "id" : 3,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/3/",
+  "name" : "Legendary Scroll",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 4,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/4/",
+  "name" : "Scroll of Light and Darkness",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 5,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/5/",
+  "name" : "Fire Scroll",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 6,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/6/",
+  "name" : "Water Scroll",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 7,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/7/",
+  "name" : "Wind Scroll",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 10,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/10/",
+  "name" : "Secret Dungeon",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 11,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/11/",
+  "name" : "Garen Forest",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 12,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/12/",
+  "name" : "Mt. Siz",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 13,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/13/",
+  "name" : "Kabir Ruins",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 14,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/14/",
+  "name" : "Mt. White Ragon",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 15,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/15/",
+  "name" : "Telain Forest",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 16,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/16/",
+  "name" : "Hydeni Ruins",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 17,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/17/",
+  "name" : "Tamor Desert",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 18,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/18/",
+  "name" : "Vrofagus Ruins",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 19,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/19/",
+  "name" : "Faimon Volcano",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 20,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/20/",
+  "name" : "Aiden Forest",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 21,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/21/",
+  "name" : "Ferun Castle",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 22,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/22/",
+  "name" : "Mt. Runar",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 23,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/23/",
+  "name" : "Chiruka Remains",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 24,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/24/",
+  "name" : "Glory Shop",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 25,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/25/",
+  "name" : "Trial of Ascension",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 26,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/26/",
+  "name" : "Devilmon Cave",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 27,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/27/",
+  "name" : "Rainbow Garden",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 28,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/28/",
+  "name" : "Guild Shop",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 29,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/29/",
+  "name" : "Hall of Dark",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 30,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/30/",
+  "name" : "Hall of Fire",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 31,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/31/",
+  "name" : "Hall of Light",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 32,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/32/",
+  "name" : "Hall of Water",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 33,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/33/",
+  "name" : "Hall of Wind",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 34,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/34/",
+  "name" : "Angel Garden",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 35,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/35/",
+  "name" : "Fusion",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 36,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/36/",
+  "name" : "Magic Shop",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 37,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/37/",
+  "name" : "Special Event",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 38,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/38/",
+  "name" : "Mystical Scroll or Crystal Summon",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 39,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/39/",
+  "name" : "Unknown Scroll or Social Summon",
+  "description" : "",
+  "farmable_source" : false
+}, {
+  "id" : 40,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/40/",
+  "name" : "World Boss",
+  "description" : "A server wide boss that is unlocked after completing a Dimensional Rift. Rewards are random and the number of rewards is based on the rank you achieve. ",
+  "farmable_source" : false
+}, {
+  "id" : 41,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/41/",
+  "name" : "In-App Purchase",
+  "description" : "Purchase made with real currency through the in-game store. ",
+  "farmable_source" : false
+}, {
+  "id" : 42,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/42/",
+  "name" : "Hall of Magic",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 43,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/43/",
+  "name" : "Giant's Keep",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 44,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/44/",
+  "name" : "Dragon's Lair",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 45,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/45/",
+  "name" : "Necropolis",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 46,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/46/",
+  "name" : "Ice Beast",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 47,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/47/",
+  "name" : "Fire Beast",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 48,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/48/",
+  "name" : "Wind Beast",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 49,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/49/",
+  "name" : "Light Beast",
+  "description" : "",
+  "farmable_source" : true
+}, {
+  "id" : 50,
+  "url" : "https://swarfarm.com/api/v2/monster-sources/50/",
+  "name" : "Dark Beast",
+  "description" : "",
+  "farmable_source" : true
+} ]

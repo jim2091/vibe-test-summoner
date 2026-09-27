@@ -1,0 +1,562 @@
+{
+  "1" : {
+    "description" : "The target's Attack Power will be increased by 50%.",
+    "name" : "Increase ATK"
+  },
+  "2" : {
+    "description" : "The target's defense will be increased by 70%.",
+    "name" : "Increase DEF"
+  },
+  "3" : {
+    "description" : "The target's Critical Rate will be increased by 30%.",
+    "name" : "Increase CRI Rate"
+  },
+  "4" : {
+    "description" : "Critical Hit Rate against the monster is reduced by 50%",
+    "name" : "Increase CRI Resist"
+  },
+  "5" : {
+    "description" : "The target's Attack Speed will be increased by 30%.",
+    "name" : "Increase ATK SPD"
+  },
+  "6" : {
+    "description" : "The target's HP will be recovered by 15% on each turn.",
+    "name" : "Recovery"
+  },
+  "7" : {
+    "description" : "When attacked, the target will counterattack to inflict 75% of the Attack Power as damage.",
+    "name" : "Counter"
+  },
+  "8" : {
+    "description" : "The target will gain immunity against all harmful effects.",
+    "name" : "Immunity"
+  },
+  "9" : {
+    "description" : "The target will be invincible and receive no damage.",
+    "name" : "Invincible"
+  },
+  "10" : {
+    "description" : "The target will return 30% of the incoming damage to the attacker when attacked.",
+    "name" : "Reflect DMG"
+  },
+  "11" : {
+    "description" : "The Shield will absorb a fixed amount of damage.",
+    "name" : "Shield"
+  },
+  "12" : {
+    "description" : "The target's HP will not drop below 1 even when attacked.",
+    "name" : "Endure"
+  },
+  "13" : {
+    "description" : "The caster of this skill will receive half of the damage inflicted on the escorted target while making the damage dealt to the defended target to 0 and counterattack the enemy target.",
+    "name" : "Defend"
+  },
+  "14" : {
+    "description" : "The target will revive with 30% HP when defeated.",
+    "name" : "Soul Protection"
+  },
+  "15" : {
+    "description" : "The ATK bar of ally monsters is filled by a set amount. This allows ally monsters to attack again sooner.",
+    "name" : "Increase ATB"
+  },
+  "16" : {
+    "description" : "The chance of landing a glancing hit will be increased by 50%. Glancing Hits will decrease the damage by 30% and if the attacker has attribute disadvantage, damage will be decreased additionally by 16%.",
+    "name" : "Increase Glancing Hit Chance"
+  },
+  "17" : {
+    "description" : "The target's Attack Power will be decreased by 50%.",
+    "name" : "Decrease ATK"
+  },
+  "18" : {
+    "description" : "The target's Defense will be decreased by 70%.",
+    "name" : "Decrease DEF"
+  },
+  "19" : {
+    "description" : "The target's Attack Speed will be decreased by 30%.",
+    "name" : "Decrease ATK SPD"
+  },
+  "20" : {
+    "description" : "All beneficial effects will be blocked",
+    "name" : "Beneficial Effects Blocked"
+  },
+  "21" : {
+    "description" : "When remaining turns reach 0, the bomb explodes to deal damage that ignores Defense and stuns for 1 turn. The damage is affected by the caster's Attack Power, and the chance of stunning is affected by the caster's Accuracy and the target's Resistance.",
+    "name" : "Bomb"
+  },
+  "22" : {
+    "description" : "The target is forced to attack the Monster that is provoked.",
+    "name" : "Provoke"
+  },
+  "23" : {
+    "description" : "The target will be put to sleep and won't be able to attack. The sleeping target wakes up when attacked or damaged. In addition, you won't receive glancing Hits when you are attacked.",
+    "name" : "Sleep"
+  },
+  "24" : {
+    "description" : "The target's HP will be damaged by 5% of the MAX HP whenever the target's turn returns. (Ignores Defense)",
+    "name" : "Continuous DMG"
+  },
+  "25" : {
+    "description" : "The target will be frozen and won't be able to attack.",
+    "name" : "Freeze"
+  },
+  "26" : {
+    "description" : "The target will be stunned and won't be able to attack.",
+    "name" : "Stun"
+  },
+  "27" : {
+    "description" : "The target's HP cannot be recovered.",
+    "name" : "Unrecoverable"
+  },
+  "28" : {
+    "description" : "Skills with cooldowns will be locked. (Passive skills not included)",
+    "name" : "Silence"
+  },
+  "29" : {
+    "description" : "The target will receive 25% increased damage.",
+    "name" : "Brand"
+  },
+  "30" : {
+    "description" : "Passive skills will be locked",
+    "name" : "Oblivion"
+  },
+  "31" : {
+    "description" : "Reduces the enemy's attack gauge",
+    "name" : "Decrease ATB"
+  },
+  "32" : {
+    "description" : "Removes one or more debuffs",
+    "name" : "Cleanse"
+  },
+  "33" : {
+    "description" : "Increases ally's HP",
+    "name" : "Heal"
+  },
+  "34" : {
+    "description" : "Revive a dead ally",
+    "name" : "Revive"
+  },
+  "35" : {
+    "description" : "Removes one or more beneficial effects from target monster(s)",
+    "name" : "Remove Buff"
+  },
+  "36" : {
+    "description" : "Attack will ignore the target's defense.",
+    "name" : "Ignore DEF"
+  },
+  "37" : {
+    "description" : "Gain another turn immediately",
+    "name" : "Additional Turn"
+  },
+  "38" : {
+    "description" : "Detonate all bomb effects on the enemy target(s)",
+    "name" : "Detonate Bomb"
+  },
+  "39" : {
+    "description" : "Remove a beneficial effect and take it for yourself",
+    "name" : "Steal Buff"
+  },
+  "40" : {
+    "description" : "Reduces cool down counter of skills by 1 or more",
+    "name" : "Reduce Cooltime"
+  },
+  "41" : {
+    "description" : "Puts the target's skill on cool down.",
+    "name" : "Increase Cooltime"
+  },
+  "42" : {
+    "description" : "Heal that affects only the monster who cast the skill",
+    "name" : "Self-Heal"
+  },
+  "43" : {
+    "description" : "Prevents an enemy from being resurrected after being killed.",
+    "name" : "Anti-Revive"
+  },
+  "44" : {
+    "description" : "Removes a debuff from casting monster and applies it to the target monster.",
+    "name" : "Transfer Debuff"
+  },
+  "45" : {
+    "description" : "Attacks an additional time on the same turn.",
+    "name" : "Additional Attack"
+  },
+  "46" : {
+    "description" : "Increases the duration of a buff by a number of turns.",
+    "name" : "Increase Buff Duration"
+  },
+  "47" : {
+    "description" : "Decreases the duration of debuffs by a number of turns.",
+    "name" : "Decrease Debuff Duration"
+  },
+  "48" : {
+    "description" : "Deals damage to the monster using the skill.",
+    "name" : "Self-Harm"
+  },
+  "49" : {
+    "description" : "The skill always has an elemental advantage regardless of monster elements.",
+    "name" : "Elemental Advantage"
+  },
+  "50" : {
+    "description" : "Brings one or more allies to attack at the same time.",
+    "name" : "Ally Attack"
+  },
+  "51" : {
+    "description" : "Destroys the enemy's MAX HP",
+    "name" : "Destroy HP"
+  },
+  "52" : {
+    "description" : "Decreases damage received by a certain amount",
+    "name" : "Decrease Damage"
+  },
+  "53" : {
+    "description" : "Increases the duration of one or more debuffs on the enemy",
+    "name" : "Increase Debuff Duration"
+  },
+  "54" : {
+    "description" : "Redistribute HP",
+    "name" : "Redistribute HP"
+  },
+  "55" : {
+    "description" : "The enemy can only attack the target under the Threat state when using the attack skill. The duration of the Threat will be reduced only by skills that attack a single enemy target. The target under the Threat state will be inflicted with 15% less damage when attacked.",
+    "name" : "Threat"
+  },
+  "56" : {
+    "description" : "Ignores damage reduction effects",
+    "name" : "Ignore Damage Reduction"
+  },
+  "57" : {
+    "description" : "Attack will always land as a Critical Hit",
+    "name" : "Guaranteed Critical Hit"
+  },
+  "58" : {
+    "description" : "Increases damage per debuff on the target",
+    "name" : "Debuff Bonus Damage"
+  },
+  "59" : {
+    "description" : "Reduces the remaining time of an enemy's beneficial effect.",
+    "name" : "Decrease Buff Duration"
+  },
+  "60" : {
+    "description" : "Bypasses all enemy resistances when applying effects.",
+    "name" : "Ignore Resistance"
+  },
+  "61" : {
+    "description" : "You can possess up to 5 Knowledge, and you can use a skill by consuming the Knowledge (for Lightening Emperor only)",
+    "name" : "Knowledge"
+  },
+  "62" : {
+    "description" : "You'll be uncontrollable under this state and be defeated when this effect ends.",
+    "name" : "Magic Power Explosion"
+  },
+  "63" : {
+    "description" : "Consumes all stacks of Knowledge",
+    "name" : "Spend Knowledge"
+  },
+  "64" : {
+    "description" : "Recovers HP by 20% of the inflicted damage.",
+    "name" : "Vampire"
+  },
+  "65" : {
+    "description" : "Immediately apply the remaining Continuous Damage, consuming the effect",
+    "name" : "Detonate Continuous Damage"
+  },
+  "66" : {
+    "description" : "Steal ATB from the enemy and add it to yourself",
+    "name" : "Absorb ATB"
+  },
+  "67" : {
+    "description" : "Deals increased damage per positive effect on target monster",
+    "name" : "Buff Bonus Damage"
+  },
+  "68" : {
+    "description" : "Seals the enemy in the scroll, leaving the enemy out of the battle for a designated period of time.",
+    "name" : "Scroll Seal"
+  },
+  "69" : {
+    "description" : "Harmful effects cannot be removed while this effect is on. This effect will be removed first when a harmful effect removal skill is used, and other harmful effects can be removed afterwards. Does not apply to bosses.",
+    "name" : "Harmful Effect Removal Blocked"
+  },
+  "70" : {
+    "description" : "Attack has increased Critical Chance",
+    "name" : "Increase Attack Critical Chance"
+  },
+  "71" : {
+    "description" : "The HP is reduced by 50% of the MAX HP if the target uses a skill with cooldown time, and the MAX cooldown time of the used skill is increased by 3 turns.",
+    "name" : "Suppression"
+  },
+  "72" : {
+    "description" : "The target's HP will be damaged by 25% of the MAX HP and cannot recover HP whenever the target's turn returns. The target defeated from the curse cannot be revived and this effect cannot be removed.",
+    "name" : "Curse of Death"
+  },
+  "73" : {
+    "description" : "Increases Damage under certain conditions",
+    "name" : "Increase Damage"
+  },
+  "74" : {
+    "description" : "MAX HP increases by given amount under certain conditions",
+    "name" : "Accumulate MAX HP"
+  },
+  "75" : {
+    "description" : "ATK increases by given amount under certain conditions",
+    "name" : "Accumulate ATK"
+  },
+  "76" : {
+    "description" : "DEF increases by given amount under certain conditions",
+    "name" : "Accumulate DEF"
+  },
+  "77" : {
+    "description" : "Removes a buff from target monster and applies it to the casting monster.",
+    "name" : "Transfer Buff"
+  },
+  "78" : {
+    "description" : "Under Berserk state, Defense is decreased by 30%, the damage dealt to enemies is increased by 100%, Attack Speed is increased by 20% and HP is recoverd by 10% of the damage dealt.",
+    "name" : "Berserk"
+  },
+  "79" : {
+    "description" : "Increases Buff power by certain amount, i.e. Attack Power Buff gives more attack power",
+    "name" : "Increase Buff"
+  },
+  "80" : {
+    "description" : "Decreases Buff power by certain amount, i.e. Attack Power Debuff reduces more attack power",
+    "name" : "Decrease Buff"
+  },
+  "81" : {
+    "description" : "1 Soul Stone will be consumed to revive the ally with 20% HP when an ally dies.",
+    "name" : "Soul Stone"
+  },
+  "82" : {
+    "description" : "You cannot Critical Hit enemy targets.",
+    "name" : "Cannot Critical Hit"
+  },
+  "83" : {
+    "description" : "You cannot be Critical Hit.",
+    "name" : "Cannot be Critical Hit"
+  },
+  "84" : {
+    "description" : "Enemy's counterattack doesn't occur",
+    "name" : "Enemy can't counterattack"
+  },
+  "85" : {
+    "description" : "Decreases Attack Bar decreasing effects received",
+    "name" : "Decrease ATB effects"
+  },
+  "86" : {
+    "description" : "Reflects harmful effects granted on the Monster excluding inability effects.",
+    "name" : "Reflect Harmful Effect"
+  },
+  "87" : {
+    "description" : "The Demon Bag devours the target to leave it out of the battle and decreases its HP by 5% whenever the enemy and ally's turn ends.",
+    "name" : "Demon Bag"
+  },
+  "88" : {
+    "description" : "Increases the Accuracy stat.",
+    "name" : "Increase Accuracy"
+  },
+  "89" : {
+    "description" : "Return a % of the incoming damage to the attacker when attacked.",
+    "name" : "Passive Reflect DMG"
+  },
+  "90" : {
+    "description" : "Attack has increased Critical Damage",
+    "name" : "Increase Critical Damage"
+  },
+  "91" : {
+    "description" : "Immune to Attack Bar decreasing effects",
+    "name" : "Immune to ATB decreasing effects"
+  },
+  "92" : {
+    "description" : "This attack won't land as a glancing hit",
+    "name" : "Guaranteed Not Glance Hit"
+  },
+  "93" : {
+    "description" : "Decreases the chance of being attacked with a Critical Hit",
+    "name" : "Decrease Critical Hit Chance"
+  },
+  "94" : {
+    "description" : "The target under the Irresistible effect cannot resist any types of harmful effects.",
+    "name" : "Irresistible"
+  },
+  "95" : {
+    "description" : "Target's HP is reduced by an amount",
+    "name" : "HP reduction"
+  },
+  "96" : {
+    "description" : "Limits the number of harmful effects allies have in battles (boss battle excluded)",
+    "name" : "Limit Harmful Effects"
+  },
+  "97" : {
+    "description" : "Increases the heal amount",
+    "name" : "Increase Heal Amount"
+  },
+  "98" : {
+    "description" : "Ignores all effects that resist death",
+    "name" : "Ignores Resist Death"
+  },
+  "99" : {
+    "description" : "Gains immunity against Continuous Damage",
+    "name" : "Immune to Continuous DMG"
+  },
+  "100" : {
+    "description" : "While under the Seal state, set effects of Despair, Vampire, Violent, Nemesis, Revenge, Destroy, and Seal Runes are not activated.",
+    "name" : "Seal"
+  },
+  "101" : {
+    "description" : "SPD increases by given amount under certain conditions",
+    "name" : "Accumulate SPD"
+  },
+  "102" : {
+    "description" : "Any harmful effect that was once applied cannot be reapplied in the same battle.",
+    "name" : "Prevent Harmful Effect Reapply"
+  },
+  "103" : {
+    "description" : "Initiates a 1v1 duel",
+    "name" : "Initiate 1v1 Duel"
+  },
+  "104" : {
+    "description" : "Monsters under this effect cannot be revived during battle. Does not apply to bosses.",
+    "name" : "Unrevivable"
+  },
+  "105" : {
+    "description" : "Sacrifice proportionate to the damage taken by all enemies and allies on the battlefield accumulates in the Arsenal. When a unit dies, the Arsenal instantly becomes full.",
+    "name" : "Sacrifice"
+  },
+  "106" : {
+    "description" : "When Cursed Tombstone is on the enemy side, the HP of an enemy that gets a turn decreases by 15%. Cursed Tombstone will disappear if the enemy at the spot is revived or if the caster dies, and it will not appear in boss battles.",
+    "name" : "Cursed Tombstone"
+  },
+  "107" : {
+    "description" : "When Cherished Tombstone is on the ally side, increases the Attack Speed of all allies by 50%, and recovers the HP of all allies by 10% at the start of your turn. Cherished Tombstone will disappear if the ally at the spot is revived or if the caster dies.",
+    "name" : "Cherished Tombstone"
+  },
+  "108" : {
+    "description" : "Decreases chance of being granted with harmful effects",
+    "name" : "Decrease Harmful Effect Chance"
+  },
+  "109" : {
+    "description" : "Immune against inability effects",
+    "name" : "Immune to Inability Effects"
+  },
+  "110" : {
+    "description" : "Skill has a limited number of usages per battle.",
+    "name" : "Skill Limit per Battle"
+  },
+  "111" : {
+    "description" : "Offset/Nullifies the damage taken",
+    "name" : "Offset Damage"
+  },
+  "112" : {
+    "description" : "Becomes immune to Defense decreasing effects",
+    "name" : "Immune to Defense Decreasing Effects"
+  },
+  "113" : {
+    "description" : "Prevents enemies from receiving beneficial effects.",
+    "name" : "Prevent Beneficial Effect"
+  },
+  "114" : {
+    "description" : "The unit reduces its own attack speed.",
+    "name" : "Reduce Attack Speed"
+  },
+  "115" : {
+    "description" : "Reduces the enemy's HP upon activation of a condition.",
+    "name" : "Reduce Enemy HP"
+  },
+  "116" : {
+    "description" : "The unit lowers its own HP.",
+    "name" : "Reduce HP"
+  },
+  "117" : {
+    "description" : "The unit cannot be put under the Sleep inability effect.",
+    "name" : "Immunity to Sleep"
+  },
+  "118" : {
+    "description" : "Increased chance of receiving a Glancing Hit from the enemy",
+    "name" : "Receive Glancing Hit Increased"
+  },
+  "119" : {
+    "description" : "Takes a percentage of the damage that other allies receive",
+    "name" : "Share ally damage"
+  },
+  "120" : {
+    "description" : "Becomes immune to Stun",
+    "name" : "Immune to Stun"
+  },
+  "121" : {
+    "description" : "Becomes immune to Freeze",
+    "name" : "Immune to Freeze"
+  },
+  "122" : {
+    "description" : "Gains immunity against HP recovery disturbance effects",
+    "name" : "Immune to HP Recovery Disturbance"
+  },
+  "123" : {
+    "description" : "Becomes immune to Sleep",
+    "name" : "Immune to Sleep"
+  },
+  "124" : {
+    "description" : "Grants immunity against Oblivion effect",
+    "name" : "Immune to Oblivion"
+  },
+  "125" : {
+    "description" : "Grants immunity against Harmful Effects",
+    "name" : "Immune to Harmful Effects"
+  },
+  "126" : {
+    "description" : "Attack Bar increasing effects are not activated",
+    "name" : "Blocked Attack Bar Increasing Effects"
+  },
+  "127" : {
+    "description" : "Increases the damage that all allies deal to the marked target by 25%. The caster absorbs the Attack Bar by 20% whenever attacking the marked target.",
+    "name" : "Mark"
+  },
+  "128" : {
+    "description" : "Shares your MAX HP with an ally",
+    "name" : "Share MAX HP"
+  },
+  "129" : {
+    "description" : "The Attack Bar decreasing effect ignores immunity.",
+    "name" : "Decrease ATB Ignores Immunity"
+  },
+  "130" : {
+    "description" : "If the target with the shadow trap gains a turn, you will gain the turn instead. This effect can apply up to 2 targets at the same time.",
+    "name" : "Shadow Trap"
+  },
+  "131" : {
+    "description" : "Increases the skill activation rate",
+    "name" : "Increased Skill Activation Rate"
+  },
+  "132" : {
+    "description" : "While in the mechanical frame state, you gain immunity against inability effects and Attack Bar decreasing effects, and deal 50% increased damage. However, you cannot counter attack or attack together. You cannot be defeated while the effect lasts, but will die once the effect ends.",
+    "name" : "Mechanical Frame State"
+  },
+  "133" : {
+    "description" : "Not affected by cooldown increasing or decreasing skills",
+    "name" : "Immune against cool down effects"
+  },
+  "134" : {
+    "description" : "Removes all harmful effects on all allies, increases their Attack Bar by 30%, and revives all allies with 30% HP. The cooldown increases by 2 turns per revived ally.",
+    "name" : "Enhanced Immortal Light"
+  },
+  "135" : {
+    "description" : "The Monster in the [Stealth] state cannot be selected as a target but can be attacked by area attacks and attacks unrelated to target selection. [Stealth] is no longer possible if there is only 1 Monster to select.",
+    "name" : "Stealth"
+  },
+  "136" : {
+    "description" : "Removes inability effects",
+    "name" : "Remove inability effect"
+  },
+  "137" : {
+    "description" : "Increases Attack Bar increasing effects received",
+    "name" : "Increases ATB effects"
+  },
+  "138" : {
+    "description" : "Whenever the target is hit with a single-target attack, 50% of the damage from the first hit is dealt to all other enemies. The tie effect can be applied to one target at a time, and gets untied if either the tied enemy or you get defeated.",
+    "name" : "Shadow Tie"
+  },
+  "139" : {
+    "description" : "After attacking, you leave the battle until your next turn.",
+    "name" : "Leave Battle"
+  },
+  "140" : {
+    "description" : "Grants a random harmful effect that was applied on the current battle",
+    "name" : "Random Harmful Effect in Battle"
+  }
+}

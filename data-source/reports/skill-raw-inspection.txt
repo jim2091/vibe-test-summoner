@@ -1,0 +1,518 @@
+========================================
+SKILL RAW INSPECTION
+========================================
+
+total skills = 5340
+top-level field count = 20
+
+========================================
+1. DESIGN FIELD CHECK
+========================================
+
+id                           present=5340  missing=   0  null=   0  types={INTEGER=5340}
+com2us_id                    present=5340  missing=   0  null=   0  types={INTEGER=5340}
+name                         present=5340  missing=   0  null=   0  types={STRING=5340}
+description                  present=5340  missing=   0  null=   0  types={STRING=5340}
+slot                         present=5340  missing=   0  null=   0  types={INTEGER=5340}
+cooltime                     present=5340  missing=   0  null=2992  types={INTEGER=2348, NULL=2992}
+hits                         present=5340  missing=   0  null=   0  types={INTEGER=5340}
+passive                      present=5340  missing=   0  null=   0  types={BOOLEAN=5340}
+aoe                          present=5340  missing=   0  null=   0  types={BOOLEAN=5340}
+random                       present=5340  missing=   0  null=   0  types={BOOLEAN=5340}
+max_level                    present=5340  missing=   0  null=   0  types={INTEGER=5340}
+upgrades                     present=5340  missing=   0  null=   0  types={LIST=5340}
+effects                      present=5340  missing=   0  null=   0  types={LIST=5340}
+multiplier_formula           present=5340  missing=   0  null=   0  types={STRING=5340}
+multiplier_formula_raw       present=5340  missing=   0  null=   0  types={STRING=5340}
+scales_with                  present=5340  missing=   0  null=   0  types={LIST=5340}
+icon_filename                present=5340  missing=   0  null=   0  types={STRING=5340}
+other_skill                  present=5340  missing=   0  null=5197  types={INTEGER=143, NULL=5197}
+
+========================================
+2. ALL TOP-LEVEL FIELD SCHEMA
+========================================
+
+FIELD: aoe
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {BOOLEAN=5340}
+
+FIELD: com2us_id
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {INTEGER=5340}
+
+FIELD: cooltime
+  present = 5340 / 5340
+  missing = 0
+  null = 2992
+  valueTypes = {INTEGER=2348, NULL=2992}
+
+FIELD: description
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {STRING=5340}
+
+FIELD: effects
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {LIST=5340}
+  listItemTypes = {OBJECT=7147}
+  listSize = 0 .. 6
+  listObjectKeyPatterns:
+    [all, aoe, chance, damage, effect, note, on_crit, on_death, quantity, random, self_effect, self_hp, single_target, target_hp] -> 7147
+
+FIELD: hits
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {INTEGER=5340}
+
+FIELD: icon_filename
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {STRING=5340}
+
+FIELD: id
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {INTEGER=5340}
+
+FIELD: level_progress_description
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {LIST=5340}
+  listItemTypes = {STRING=14653}
+  listSize = 0 .. 8
+
+FIELD: max_level
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {INTEGER=5340}
+
+FIELD: multiplier_formula
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {STRING=5340}
+
+FIELD: multiplier_formula_raw
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {STRING=5340}
+
+FIELD: name
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {STRING=5340}
+
+FIELD: other_skill
+  present = 5340 / 5340
+  missing = 0
+  null = 5197
+  valueTypes = {INTEGER=143, NULL=5197}
+
+FIELD: passive
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {BOOLEAN=5340}
+
+FIELD: random
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {BOOLEAN=5340}
+
+FIELD: scales_with
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {LIST=5340}
+  listItemTypes = {STRING=4652}
+  listSize = 0 .. 3
+
+FIELD: slot
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {INTEGER=5340}
+
+FIELD: upgrades
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {LIST=5340}
+  listItemTypes = {OBJECT=14653}
+  listSize = 0 .. 8
+  listObjectKeyPatterns:
+    [amount, effect] -> 14653
+
+FIELD: used_on
+  present = 5340 / 5340
+  missing = 0
+  null = 0
+  valueTypes = {LIST=5340}
+  listItemTypes = {INTEGER=8434}
+  listSize = 0 .. 14
+
+========================================
+3. SIMPLE FIELD VALUE DISTRIBUTION
+========================================
+
+FIELD: slot
+  distinct = 5
+  missing = 0, null = 0
+  -1 -> 250
+  1 -> 1901
+  2 -> 1548
+  3 -> 1478
+  4 -> 163
+
+FIELD: cooltime
+  distinct = 11
+  missing = 0, null = 2992
+  10 -> 9
+  11 -> 2
+  13 -> 1
+  2 -> 68
+  3 -> 469
+  4 -> 1010
+  5 -> 625
+  6 -> 114
+  7 -> 32
+  8 -> 12
+  9 -> 6
+
+FIELD: hits
+  distinct = 12
+  missing = 0, null = 0
+  -1 -> 1
+  -3 -> 1
+  0 -> 734
+  1 -> 3615
+  12 -> 1
+  2 -> 494
+  3 -> 339
+  4 -> 99
+  5 -> 28
+  6 -> 21
+  7 -> 3
+  8 -> 4
+
+FIELD: passive
+  distinct = 2
+  missing = 0, null = 0
+  false -> 4488
+  true -> 852
+
+FIELD: aoe
+  distinct = 2
+  missing = 0, null = 0
+  false -> 4517
+  true -> 823
+
+FIELD: random
+  distinct = 2
+  missing = 0, null = 0
+  false -> 5291
+  true -> 49
+
+FIELD: max_level
+  distinct = 9
+  missing = 0, null = 0
+  1 -> 1640
+  2 -> 229
+  3 -> 699
+  4 -> 322
+  5 -> 952
+  6 -> 877
+  7 -> 469
+  8 -> 127
+  9 -> 25
+
+========================================
+4. TARGET COMPLEX FIELD SAMPLES
+========================================
+
+FIELD: upgrades
+  types = {LIST=5340}
+  SAMPLE 1:
+    id = 1
+    name = Forbidden Ingredient (Passive)
+    value = []
+  SAMPLE 2:
+    id = 4
+    name = Splinter Attack
+    value = [{"effect":"Damage +{0}%","amount":5},{"effect":"Damage +{0}%","amount":5},{"effect":"Effect Rate +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10},{"effect":"Effect Rate +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10},{"effect":"Effect Rate +{0}%","amount":15}]
+  SAMPLE 3:
+    id = 7
+    name = Bully
+    value = [{"effect":"Damage +{0}%","amount":5},{"effect":"Effect Rate +{0}%","amount":5},{"effect":"Damage +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10},{"effect":"Effect Rate +{0}%","amount":10},{"effect":"Effect Rate +{0}%","amount":15}]
+  SAMPLE 4:
+    id = 11
+    name = Jump Attack
+    value = [{"effect":"Damage +{0}%","amount":5},{"effect":"Damage +{0}%","amount":5},{"effect":"Damage +{0}%","amount":5},{"effect":"Damage +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10}]
+  SAMPLE 5:
+    id = 20
+    name = Sacred Water
+    value = [{"effect":"Damage +{0}%","amount":5},{"effect":"Damage +{0}%","amount":5},{"effect":"Effect Rate +{0}%","amount":5},{"effect":"Damage +{0}%","amount":10},{"effect":"Effect Rate +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10},{"effect":"Effect Rate +{0}%","amount":15}]
+  SAMPLE 6:
+    id = 24
+    name = Crushing Rocks
+    value = [{"effect":"Effect Rate +{0}%","amount":5},{"effect":"Effect Rate +{0}%","amount":5},{"effect":"Damage +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10},{"effect":"Damage +{0}%","amount":15}]
+  SAMPLE 7:
+    id = 28
+    name = Bite
+    value = [{"effect":"Damage +{0}%","amount":5},{"effect":"Effect Rate +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10},{"effect":"Effect Rate +{0}%","amount":10},{"effect":"Effect Rate +{0}%","amount":20}]
+  SAMPLE 8:
+    id = 32
+    name = Spore Throw
+    value = [{"effect":"Damage +{0}%","amount":5},{"effect":"Damage +{0}%","amount":5},{"effect":"Damage +{0}%","amount":10},{"effect":"Damage +{0}%","amount":10}]
+
+FIELD: effects
+  types = {LIST=5340}
+  SAMPLE 1:
+    id = 1
+    name = Forbidden Ingredient (Passive)
+    value = []
+  SAMPLE 2:
+    id = 4
+    name = Splinter Attack
+    value = [{"effect":{"id":28,"url":"https://swarfarm.com/api/v2/skill-effects/28/","name":"Stun","is_buff":false,"type":"Debuff","description":"The target will be stunned and won't be able to attack.","icon_filename":"debuff_stun.png"},"aoe":false,"single_target":true,"self_effect":false,"chance":15,"on_crit":false,"on_death":false,"random":false,"quantity":1,"all":false,"self_hp":false,"target_hp":false,"damage":false,"note":""}]
+  SAMPLE 3:
+    id = 7
+    name = Bully
+    value = [{"effect":{"id":18,"url":"https://swarfarm.com/api/v2/skill-effects/18/","name":"Increase Glancing Hit Chance","is_buff":false,"type":"Debuff","description":"The chance of landing a glancing hit will be increased by 50%. Glancing Hits will decrease the damage by 30% and if the attacker has attribute disadvantage, damage will be decreased additionally by 16%.","icon_filename":"debuff_glancing_hit.png"},"aoe":false,"single_target":true,"self_effect":false,"chance":50,"on_crit":false,"on_death":false,"random":false,"quantity":1,"all":false,"self_hp":false,"target_hp":false,"damage":false,"note":""}]
+  SAMPLE 4:
+    id = 11
+    name = Jump Attack
+    value = [{"effect":{"id":33,"url":"https://swarfarm.com/api/v2/skill-effects/33/","name":"Decrease ATB","is_buff":false,"type":"Neutral","description":"Reduces the enemy's attack gauge","icon_filename":""},"aoe":false,"single_target":true,"self_effect":false,"chance":50,"on_crit":false,"on_death":false,"random":false,"quantity":15,"all":false,"self_hp":false,"target_hp":false,"damage":false,"note":""}]
+  SAMPLE 5:
+    id = 20
+    name = Sacred Water
+    value = [{"effect":{"id":19,"url":"https://swarfarm.com/api/v2/skill-effects/19/","name":"Decrease ATK","is_buff":false,"type":"Debuff","description":"The target's Attack Power will be decreased by 50%.","icon_filename":"debuff_attack_down.png"},"aoe":false,"single_target":true,"self_effect":false,"chance":20,"on_crit":false,"on_death":false,"random":false,"quantity":2,"all":false,"self_hp":false,"target_hp":false,"damage":false,"note":""}]
+  SAMPLE 6:
+    id = 24
+    name = Crushing Rocks
+    value = [{"effect":{"id":20,"url":"https://swarfarm.com/api/v2/skill-effects/20/","name":"Decrease DEF","is_buff":false,"type":"Debuff","description":"The target's Defense will be decreased by 70%.","icon_filename":"debuff_defence_down.png"},"aoe":false,"single_target":true,"self_effect":false,"chance":30,"on_crit":false,"on_death":false,"random":false,"quantity":2,"all":false,"self_hp":false,"target_hp":false,"damage":false,"note":""}]
+  SAMPLE 7:
+    id = 28
+    name = Bite
+    value = [{"effect":{"id":20,"url":"https://swarfarm.com/api/v2/skill-effects/20/","name":"Decrease DEF","is_buff":false,"type":"Debuff","description":"The target's Defense will be decreased by 70%.","icon_filename":"debuff_defence_down.png"},"aoe":false,"single_target":true,"self_effect":false,"chance":50,"on_crit":false,"on_death":false,"random":false,"quantity":1,"all":false,"self_hp":false,"target_hp":false,"damage":false,"note":""}]
+  SAMPLE 8:
+    id = 32
+    name = Spore Throw
+    value = [{"effect":{"id":26,"url":"https://swarfarm.com/api/v2/skill-effects/26/","name":"Continuous DMG","is_buff":false,"type":"Debuff","description":"The target's HP will be damaged by 5% of the MAX HP whenever the target's turn returns. (Ignores Defense)","icon_filename":"debuff_dot.png"},"aoe":false,"single_target":true,"self_effect":false,"chance":100,"on_crit":false,"on_death":false,"random":false,"quantity":1,"all":false,"self_hp":false,"target_hp":false,"damage":false,"note":""}]
+
+FIELD: skill_effect
+  <field does not exist>
+
+FIELD: multiplier_formula
+  types = {STRING=5340}
+  SAMPLE 1:
+    id = 1
+    name = Forbidden Ingredient (Passive)
+    value = ""
+  SAMPLE 2:
+    id = 4
+    name = Splinter Attack
+    value = "3.6*{ATK}"
+  SAMPLE 3:
+    id = 7
+    name = Bully
+    value = "3.4*{ATK}"
+  SAMPLE 4:
+    id = 11
+    name = Jump Attack
+    value = "3.4*{ATK} + 30"
+  SAMPLE 5:
+    id = 20
+    name = Sacred Water
+    value = "1.9*{ATK}"
+  SAMPLE 6:
+    id = 24
+    name = Crushing Rocks
+    value = "1.3*{ATK}"
+  SAMPLE 7:
+    id = 32
+    name = Spore Throw
+    value = "3*{ATK}"
+  SAMPLE 8:
+    id = 35
+    name = Gust of Sand
+    value = "3.5*{ATK}"
+
+FIELD: multiplier_formula_raw
+  types = {STRING=5340}
+  SAMPLE 1:
+    id = 1
+    name = Forbidden Ingredient (Passive)
+    value = "[]"
+  SAMPLE 2:
+    id = 4
+    name = Splinter Attack
+    value = "[[\"ATK\", \"*\", 3.6]]"
+  SAMPLE 3:
+    id = 7
+    name = Bully
+    value = "[[\"ATK\", \"*\", 3.4]]"
+  SAMPLE 4:
+    id = 11
+    name = Jump Attack
+    value = "[[\"ATK\", \"*\", 3.4, \"+\", 30]]"
+  SAMPLE 5:
+    id = 20
+    name = Sacred Water
+    value = "[[\"ATK\", \"*\", 1.9]]"
+  SAMPLE 6:
+    id = 24
+    name = Crushing Rocks
+    value = "[[\"ATK\", \"*\", 1.3]]"
+  SAMPLE 7:
+    id = 32
+    name = Spore Throw
+    value = "[[\"ATK\", \"*\", 3]]"
+  SAMPLE 8:
+    id = 35
+    name = Gust of Sand
+    value = "[[\"ATK\", \"*\", 3.5]]"
+
+FIELD: scales_with
+  types = {LIST=5340}
+  SAMPLE 1:
+    id = 1
+    name = Forbidden Ingredient (Passive)
+    value = []
+  SAMPLE 2:
+    id = 4
+    name = Splinter Attack
+    value = ["ATK"]
+  SAMPLE 3:
+    id = 50
+    name = Element Explosion
+    value = ["ATK","Target MAX HP"]
+  SAMPLE 4:
+    id = 56
+    name = Shadow Defense
+    value = ["MAX HP"]
+  SAMPLE 5:
+    id = 116
+    name = Ambush
+    value = ["ATK","SPD"]
+  SAMPLE 6:
+    id = 176
+    name = Stomp
+    value = ["ATK","DEF"]
+  SAMPLE 7:
+    id = 202
+    name = Slash Rocks
+    value = ["ATK","MAX HP"]
+  SAMPLE 8:
+    id = 222
+    name = Crushing Armor
+    value = ["ATK","Current HP %"]
+
+FIELD: scaling_stats
+  <field does not exist>
+
+FIELD: level_progress_description
+  types = {LIST=5340}
+  SAMPLE 1:
+    id = 1
+    name = Forbidden Ingredient (Passive)
+    value = []
+  SAMPLE 2:
+    id = 4
+    name = Splinter Attack
+    value = ["Damage +5%","Damage +5%","Effect Rate +10%","Damage +10%","Effect Rate +10%","Damage +10%","Effect Rate +15%"]
+  SAMPLE 3:
+    id = 7
+    name = Bully
+    value = ["Damage +5%","Effect Rate +5%","Damage +10%","Damage +10%","Effect Rate +10%","Effect Rate +15%"]
+  SAMPLE 4:
+    id = 11
+    name = Jump Attack
+    value = ["Damage +5%","Damage +5%","Damage +5%","Damage +10%","Damage +10%"]
+  SAMPLE 5:
+    id = 20
+    name = Sacred Water
+    value = ["Damage +5%","Damage +5%","Effect Rate +5%","Damage +10%","Effect Rate +10%","Damage +10%","Effect Rate +15%"]
+  SAMPLE 6:
+    id = 24
+    name = Crushing Rocks
+    value = ["Effect Rate +5%","Effect Rate +5%","Damage +10%","Damage +10%","Damage +15%"]
+  SAMPLE 7:
+    id = 28
+    name = Bite
+    value = ["Damage +5%","Effect Rate +10%","Damage +10%","Damage +10%","Effect Rate +10%","Effect Rate +20%"]
+  SAMPLE 8:
+    id = 32
+    name = Spore Throw
+    value = ["Damage +5%","Damage +5%","Damage +10%","Damage +10%"]
+
+FIELD: other_skill
+  types = {INTEGER=143, NULL=5197}
+  SAMPLE 1:
+    id = 2446
+    name = skill_9516
+    value = 618
+  SAMPLE 2:
+    id = 2449
+    name = Shadow Assault
+    value = 1258
+  SAMPLE 3:
+    id = 2450
+    name = Silent Reaper
+    value = 1259
+  SAMPLE 4:
+    id = 2451
+    name = Lock Down
+    value = 1275
+  SAMPLE 5:
+    id = 2452
+    name = skill_11016
+    value = 1292
+  SAMPLE 6:
+    id = 2453
+    name = skill_11616
+    value = 1373
+  SAMPLE 7:
+    id = 2454
+    name = skill_11617
+    value = 1372
+  SAMPLE 8:
+    id = 2455
+    name = skill_11618
+    value = 1374
+
+========================================
+5. COMPLEX FIELD OVERVIEW
+========================================
+
+effects -> {LIST=5340}
+  itemTypes = {OBJECT=7147}
+  listSize = 0 .. 6
+level_progress_description -> {LIST=5340}
+  itemTypes = {STRING=14653}
+  listSize = 0 .. 8
+scales_with -> {LIST=5340}
+  itemTypes = {STRING=4652}
+  listSize = 0 .. 3
+upgrades -> {LIST=5340}
+  itemTypes = {OBJECT=14653}
+  listSize = 0 .. 8
+used_on -> {LIST=5340}
+  itemTypes = {INTEGER=8434}
+  listSize = 0 .. 14
+

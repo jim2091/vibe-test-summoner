@@ -1,0 +1,2850 @@
+[ {
+  "amount" : 15,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 1,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 1
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 15,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 2,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 2
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 10,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 3,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 3
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 25,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 4,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 4
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 25,
+  "area" : "GENERAL",
+  "element" : "LIGHT",
+  "id" : 5,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 5
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 17,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 6,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 6
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 15,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 7,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 7
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 20,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 8,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 8
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 15,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 9,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 9
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 25,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 10,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 10
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 18,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 11,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 11
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 25,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 12,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 12
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 13,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 13,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 13
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 22,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 14,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 14
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 13,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 15,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 15
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 18,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 16,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 16
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 17,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 17
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 18,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 18
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 19,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 19
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 20,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 20
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 21,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 21
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 26,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 22,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 22
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 21,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 23,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 23
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 16,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 24,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 24
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 21,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 25,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 25
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 16,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 26,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 26
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 16,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 27,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 27
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 21,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 28,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 28
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 26,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 29,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 29
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 26,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 30,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 30
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 16,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 31,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 31
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 32,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 32
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 33,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 33
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 34,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 34
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 35,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 35
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 36,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 36
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 37,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 37
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 27,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 38,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 38
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 33,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 39,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 39
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 10,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 40,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 40
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 41,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 41
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 42,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 42
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 43,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 43
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 44,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 44
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 45,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 45
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 46,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 46
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 47,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 47
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 48,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 48
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 49,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 49
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 50,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 50
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 51,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 51
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 23,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 52,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 52
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 35,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 53,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 53
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 35,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 54,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 54
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 35,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 55,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 55
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 35,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 56,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 56
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 35,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 57,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 57
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 25,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 58,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 58
+  },
+  "stat" : "CRIT_DAMAGE"
+}, {
+  "amount" : 21,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 59,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 59
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 21,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 60,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 62
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 61,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 64
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 62,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 65
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 63,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 66
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 26,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 64,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 67
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 21,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 65,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 68
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 26,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 66,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 69
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 22,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 67,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 70
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 28,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 68,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 71
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 17,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 69,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 72
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 33,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 70,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 73
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 33,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 71,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 74
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 33,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 72,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 75
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 24,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 73,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 76
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 40,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 74,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 77
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 25,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 75,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 78
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 30,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 76,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 79
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 19,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 77,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 80
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 19,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 78,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 81
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 33,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 79,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 82
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 33,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 80,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 83
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 33,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 81,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 84
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 40,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 82,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 85
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 40,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 83,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 86
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 84,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 87
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 85,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 88
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 86,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 89
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 87,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 90
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 88,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 91
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 33,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 89,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 92
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 33,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 90,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 93
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 40,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 91,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 94
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 24,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 92,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 95
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 24,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 93,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 96
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 33,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 94,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 97
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 40,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 95,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 98
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 25,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 96,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 99
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 97,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 100
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 98,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 101
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 40,
+  "area" : "GENERAL",
+  "element" : "WIND",
+  "id" : 99,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 102
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 100,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 103
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 101,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 104
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 102,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 105
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 103,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 106
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 104,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 107
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 105,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 108
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 106,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 109
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 30,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 107,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 110
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 30,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 108,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 111
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 24,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 109,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 112
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 40,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 110,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 113
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 48,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 111,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 114
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 28,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 112,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 115
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 24,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 113,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 116
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 114,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 118
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 115,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 119
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 116,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 120
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 117,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 121
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 118,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 122
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 119,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 123
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 120,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 124
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 121,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 125
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 122,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 126
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 123,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 127
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 28,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 124,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 128
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 38,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 125,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 129
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 48,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 126,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 130
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 38,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 127,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 131
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 28,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 128,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 132
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 129,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 133
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 130,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 134
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 131,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 135
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 132,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 136
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 133,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 137
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 33,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 134,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 138
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 44,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 135,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 139
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 55,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 136,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 140
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 44,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 137,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 141
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 33,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 138,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 142
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 33,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 139,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 143
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 24,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 140,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 144
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 24,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 141,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 145
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 41,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 142,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 146
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 143,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 147
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 144,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 148
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 145,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 149
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 146,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 150
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 147,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 151
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 44,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 148,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 152
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 44,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 149,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 153
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 33,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 150,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 154
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 55,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 151,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 155
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 44,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 152,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 156
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 41,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 153,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 157
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 33,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 154,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 158
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 155,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 159
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 156,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 160
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 157,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 161
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 158,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 162
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 159,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 163
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 44,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 160,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 164
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 55,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 161,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 165
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 55,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 162,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 166
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 33,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 163,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 167
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 24,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 164,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 168
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 33,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 165,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 169
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 166,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 170
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 167,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 171
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 168,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 172
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 169,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 173
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 38,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 170,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 174
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 15,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 171,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 175
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 20,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 172,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 176
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 15,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 173,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 177
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 21,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 174,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 178
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 25,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 175,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 179
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 20,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 176,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 180
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 44,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 177,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 181
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 44,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 178,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 182
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 44,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 179,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 183
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 48,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 180,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 184
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 38,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 181,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 185
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 24,
+  "area" : "DUNGEON",
+  "element" : null,
+  "id" : 182,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 186
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 25,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 183,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 187
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 31,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 184,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 188
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 55,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 185,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 189
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 55,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 186,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 190
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 33,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 187,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 191
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 22,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 188,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 192
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 17,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 189,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 193
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 22,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 190,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 194
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 38,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 191,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 195
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 28,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 192,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 196
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 193,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 197
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 194,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 198
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 195,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 199
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 196,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 200
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 40,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 197,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 201
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 198,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 202
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 199,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 203
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 200,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 204
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 201,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 205
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 50,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 202,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 206
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 20,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 203,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 207
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 28,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 204,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 208
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 38,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 205,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 209
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 28,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 206,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 210
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "ARENA",
+  "element" : null,
+  "id" : 207,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 211
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 38,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 208,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 212
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 48,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 209,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 213
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 38,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 210,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 214
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 28,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 211,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 215
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 21,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 212,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 216
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 21,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 213,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 217
+  },
+  "stat" : "SPEED"
+}, {
+  "amount" : 21,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 214,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 218
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 28,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 215,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 219
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 55,
+  "area" : "ELEMENT",
+  "element" : "WATER",
+  "id" : 216,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 220
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 55,
+  "area" : "ELEMENT",
+  "element" : "LIGHT",
+  "id" : 217,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 221
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 55,
+  "area" : "ELEMENT",
+  "element" : "FIRE",
+  "id" : 218,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 222
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 55,
+  "area" : "ELEMENT",
+  "element" : "WIND",
+  "id" : 219,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 223
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 55,
+  "area" : "ELEMENT",
+  "element" : "DARK",
+  "id" : 220,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 224
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "WATER",
+  "id" : 221,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 225
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "FIRE",
+  "id" : 222,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 226
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "WIND",
+  "id" : 223,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 227
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "LIGHT",
+  "id" : 224,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 228
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "DARK",
+  "id" : 225,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 229
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "WATER",
+  "id" : 226,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 230
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "FIRE",
+  "id" : 227,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 231
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "WIND",
+  "id" : 228,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 232
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "LIGHT",
+  "id" : 229,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 233
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "DARK",
+  "id" : 230,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 234
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 35,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 231,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 235
+  },
+  "stat" : "ACCURACY"
+}, {
+  "amount" : 38,
+  "area" : "GENERAL",
+  "element" : "DARK",
+  "id" : 232,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 236
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 48,
+  "area" : "GUILD",
+  "element" : null,
+  "id" : 233,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 237
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "WATER",
+  "id" : 234,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 238
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "WIND",
+  "id" : 235,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 239
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "LIGHT",
+  "id" : 236,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 240
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "FIRE",
+  "id" : 237,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 241
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "DARK",
+  "id" : 238,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 242
+  },
+  "stat" : "HP"
+}, {
+  "amount" : 35,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 239,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 243
+  },
+  "stat" : "RESISTANCE"
+}, {
+  "amount" : 28,
+  "area" : "GENERAL",
+  "element" : null,
+  "id" : 240,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 244
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "WATER",
+  "id" : 241,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 245
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "FIRE",
+  "id" : 242,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 246
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "WIND",
+  "id" : 243,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 247
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "LIGHT",
+  "id" : 244,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 248
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 50,
+  "area" : "GENERAL",
+  "element" : "DARK",
+  "id" : 245,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 249
+  },
+  "stat" : "DEFENSE"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "WATER",
+  "id" : 246,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 250
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "WIND",
+  "id" : 247,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 251
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "LIGHT",
+  "id" : 248,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 252
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "FIRE",
+  "id" : 249,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 253
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 45,
+  "area" : "GENERAL",
+  "element" : "DARK",
+  "id" : 250,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 254
+  },
+  "stat" : "ATTACK"
+}, {
+  "amount" : 30,
+  "area" : "GENERAL",
+  "element" : "WATER",
+  "id" : 251,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 255
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 30,
+  "area" : "GENERAL",
+  "element" : "FIRE",
+  "id" : 252,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 256
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 30,
+  "area" : "GENERAL",
+  "element" : "WIND",
+  "id" : 253,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 257
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 30,
+  "area" : "GENERAL",
+  "element" : "LIGHT",
+  "id" : 254,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 258
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 30,
+  "area" : "GENERAL",
+  "element" : "DARK",
+  "id" : 255,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 259
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "GENERAL",
+  "element" : "WATER",
+  "id" : 256,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 260
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "GENERAL",
+  "element" : "FIRE",
+  "id" : 257,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 261
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "GENERAL",
+  "element" : "WIND",
+  "id" : 258,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 262
+  },
+  "stat" : "CRIT_RATE"
+}, {
+  "amount" : 38,
+  "area" : "GENERAL",
+  "element" : "LIGHT",
+  "id" : 259,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 263
+  },
+  "stat" : "CRIT_RATE"
+} ]

@@ -1,0 +1,1769 @@
+[ {
+  "assets" : {
+    "iconKey" : "effect-1"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 1,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 1
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-2"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 2,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 2
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-3"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 3,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 3
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-4"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 4,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 4
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-5"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 5,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 5
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-6"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 6,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 6
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-7"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 7,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 7
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-8"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 8,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 9
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-9"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 9,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 10
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-10"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 10,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 11
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-11"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 11,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 12
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-12"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 12,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 13
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-13"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 13,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 14
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-14"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 14,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 15
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 15,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 17
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-16"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 16,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 18
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-17"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 17,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 19
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-18"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 18,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 20
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-19"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 19,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 21
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-20"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 20,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 22
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-21"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 21,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 23
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-22"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 22,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 24
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-23"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 23,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 25
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-24"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 24,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 26
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-25"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 25,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 27
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-26"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 26,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 28
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-27"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 27,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 29
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-28"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 28,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 30
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-29"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 29,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 31
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-30"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 30,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 32
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 31,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 33
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 32,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 34
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 33,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 35
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 34,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 36
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 35,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 37
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 36,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 38
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 37,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 39
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 38,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 41
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 39,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 42
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 40,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 43
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 41,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 44
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 42,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 45
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 43,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 48
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 44,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 50
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 45,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 51
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 46,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 52
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 47,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 53
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 48,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 54
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 49,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 55
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 50,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 56
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 51,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 57
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 52,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 59
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 53,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 60
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 54,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 62
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-55"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 55,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 64
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 56,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 65
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 57,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 66
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 58,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 67
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 59,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 68
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 60,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 69
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-61"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 61,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 70
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-62"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 62,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 71
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 63,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 72
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-64"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 64,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 73
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 65,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 74
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 66,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 75
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 67,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 76
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 68,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 77
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-69"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 69,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 78
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 70,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 79
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-71"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 71,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 82
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : {
+    "iconKey" : "effect-72"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 72,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 83
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 73,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 84
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 74,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 85
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 75,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 86
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 76,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 87
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 77,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 88
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-78"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 78,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 89
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 79,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 90
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 80,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 91
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-81"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 81,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 93
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 82,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 94
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 83,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 95
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 84,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 96
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 85,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 97
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-86"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 86,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 98
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 87,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 99
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 88,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 100
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 89,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 101
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 90,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 102
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 91,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 103
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 92,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 104
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 93,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 105
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-94"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 94,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 106
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 95,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 107
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 96,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 108
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 97,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 109
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 98,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 110
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 99,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 111
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-100"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 100,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 112
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 101,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 113
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 102,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 115
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 103,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 116
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-104"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 104,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 117
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 105,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 118
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 106,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 119
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 107,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 120
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 108,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 121
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 109,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 122
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 110,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 123
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 111,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 124
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 112,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 125
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 113,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 126
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 114,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 127
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 115,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 128
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 116,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 129
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 117,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 130
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 118,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 131
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 119,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 132
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 120,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 133
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 121,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 134
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 122,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 135
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 123,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 136
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 124,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 137
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 125,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 138
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 126,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 139
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-127"
+  },
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 127,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 141
+  },
+  "type" : "DEBUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 128,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 142
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 129,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 143
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 130,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 144
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 131,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 145
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 132,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 146
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 133,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 147
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 134,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 148
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : {
+    "iconKey" : "effect-135"
+  },
+  "flags" : {
+    "buff" : true
+  },
+  "id" : 135,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 149
+  },
+  "type" : "BUFF"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 136,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 150
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 137,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 151
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 138,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 152
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 139,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 153
+  },
+  "type" : "NEUTRAL"
+}, {
+  "assets" : null,
+  "flags" : {
+    "buff" : false
+  },
+  "id" : 140,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 154
+  },
+  "type" : "NEUTRAL"
+} ]

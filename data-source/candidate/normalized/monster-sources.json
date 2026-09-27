@@ -1,0 +1,369 @@
+[ {
+  "farmable" : false,
+  "id" : 1,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 3
+  }
+}, {
+  "farmable" : false,
+  "id" : 2,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 4
+  }
+}, {
+  "farmable" : false,
+  "id" : 3,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 5
+  }
+}, {
+  "farmable" : false,
+  "id" : 4,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 6
+  }
+}, {
+  "farmable" : false,
+  "id" : 5,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 7
+  }
+}, {
+  "farmable" : true,
+  "id" : 6,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 10
+  }
+}, {
+  "farmable" : true,
+  "id" : 7,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 11
+  }
+}, {
+  "farmable" : true,
+  "id" : 8,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 12
+  }
+}, {
+  "farmable" : true,
+  "id" : 9,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 13
+  }
+}, {
+  "farmable" : true,
+  "id" : 10,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 14
+  }
+}, {
+  "farmable" : true,
+  "id" : 11,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 15
+  }
+}, {
+  "farmable" : true,
+  "id" : 12,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 16
+  }
+}, {
+  "farmable" : true,
+  "id" : 13,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 17
+  }
+}, {
+  "farmable" : true,
+  "id" : 14,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 18
+  }
+}, {
+  "farmable" : true,
+  "id" : 15,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 19
+  }
+}, {
+  "farmable" : true,
+  "id" : 16,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 20
+  }
+}, {
+  "farmable" : true,
+  "id" : 17,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 21
+  }
+}, {
+  "farmable" : true,
+  "id" : 18,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 22
+  }
+}, {
+  "farmable" : true,
+  "id" : 19,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 23
+  }
+}, {
+  "farmable" : true,
+  "id" : 20,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 24
+  }
+}, {
+  "farmable" : false,
+  "id" : 21,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 25
+  }
+}, {
+  "farmable" : false,
+  "id" : 22,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 26
+  }
+}, {
+  "farmable" : false,
+  "id" : 23,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 27
+  }
+}, {
+  "farmable" : true,
+  "id" : 24,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 28
+  }
+}, {
+  "farmable" : true,
+  "id" : 25,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 29
+  }
+}, {
+  "farmable" : true,
+  "id" : 26,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 30
+  }
+}, {
+  "farmable" : true,
+  "id" : 27,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 31
+  }
+}, {
+  "farmable" : true,
+  "id" : 28,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 32
+  }
+}, {
+  "farmable" : true,
+  "id" : 29,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 33
+  }
+}, {
+  "farmable" : false,
+  "id" : 30,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 34
+  }
+}, {
+  "farmable" : true,
+  "id" : 31,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 35
+  }
+}, {
+  "farmable" : false,
+  "id" : 32,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 36
+  }
+}, {
+  "farmable" : false,
+  "id" : 33,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 37
+  }
+}, {
+  "farmable" : false,
+  "id" : 34,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 38
+  }
+}, {
+  "farmable" : false,
+  "id" : 35,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 39
+  }
+}, {
+  "farmable" : false,
+  "id" : 36,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 40
+  }
+}, {
+  "farmable" : false,
+  "id" : 37,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 41
+  }
+}, {
+  "farmable" : true,
+  "id" : 38,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 42
+  }
+}, {
+  "farmable" : true,
+  "id" : 39,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 43
+  }
+}, {
+  "farmable" : true,
+  "id" : 40,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 44
+  }
+}, {
+  "farmable" : true,
+  "id" : 41,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 45
+  }
+}, {
+  "farmable" : true,
+  "id" : 42,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 46
+  }
+}, {
+  "farmable" : true,
+  "id" : 43,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 47
+  }
+}, {
+  "farmable" : true,
+  "id" : 44,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 48
+  }
+}, {
+  "farmable" : true,
+  "id" : 45,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 49
+  }
+}, {
+  "farmable" : true,
+  "id" : 46,
+  "sourceIds" : {
+    "com2us" : null,
+    "skillGroup" : null,
+    "swarfarm" : 50
+  }
+} ]

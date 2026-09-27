@@ -1,0 +1,130 @@
+{
+  "1037": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Nine-tailed Fox - fusion material special form"
+  },
+  "1038": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Undine - fusion material special form"
+  },
+  "1039": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Sylph - fusion material special form"
+  },
+  "1040": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Succubus - fusion material special form"
+  },
+  "1041": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Joker - fusion material special form"
+  },
+  "1042": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Ninja - fusion material special form"
+  },
+  "1043": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Vampire - fusion material special form"
+  },
+  "1044": {
+    "entityType": "PLAYABLE",
+    "note": "Ifrit (Water) - player-usable family; source obtainable flag is false"
+  },
+  "1045": {
+    "entityType": "PLAYABLE",
+    "note": "Ifrit (Fire) - player-usable family; source obtainable flag is false"
+  },
+  "1046": {
+    "entityType": "PLAYABLE",
+    "note": "Ifrit (Wind) - player-usable family; source obtainable flag is false"
+  },
+  "1047": {
+    "entityType": "PLAYABLE",
+    "note": "Ifrit (Light) - player-usable family; source obtainable flag is false"
+  },
+  "1048": {
+    "entityType": "PLAYABLE",
+    "note": "Ifrit (Dark) - player-usable family; source obtainable flag is false"
+  },
+  "1049": {
+    "entityType": "PLAYABLE",
+    "note": "Theomars - player-usable Ifrit"
+  },
+  "1050": {
+    "entityType": "PLAYABLE",
+    "note": "Tesarion - player-usable Ifrit"
+  },
+  "1051": {
+    "entityType": "PLAYABLE",
+    "note": "Akhamamir - player-usable Ifrit"
+  },
+  "1052": {
+    "entityType": "PLAYABLE",
+    "note": "Elsharion - player-usable Ifrit"
+  },
+  "1053": {
+    "entityType": "PLAYABLE",
+    "note": "Veromos - player-usable Ifrit"
+  },
+  "1054": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Kung Fu Girl - fusion material special form"
+  },
+  "1055": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Horus - fusion material special form"
+  },
+  "1142": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Samurai - fusion material special form"
+  },
+  "1143": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Harp Magician - fusion material special form"
+  },
+  "1212": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Vampire - fusion material special form"
+  },
+  "1213": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Magic Knight - fusion material special form"
+  },
+  "1340": {
+    "entityType": "BATTLE_FORM",
+    "note": "Dark Demon special battle form; transform relation missing in this snapshot"
+  },
+  "1854": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Neostone Agent - fusion material special form"
+  },
+  "1855": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Dryad - fusion material special form"
+  },
+  "2250": {
+    "entityType": "SUMMONED_ENTITY",
+    "note": "Lord of Hell - summoned combat entity"
+  },
+  "2251": {
+    "entityType": "SUMMONED_ENTITY",
+    "note": "Lord of Hell - summoned combat entity"
+  },
+  "2299": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Onimusha - fusion material special form"
+  },
+  "2320": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Dokkaebi Princess and Sapsaree - fusion material special form"
+  },
+  "2782": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Chakram Dancer - fusion material special form"
+  },
+  "2803": {
+    "entityType": "MATERIAL",
+    "note": "Imperfect Centaur Knight - fusion material special form"
+  }
+}

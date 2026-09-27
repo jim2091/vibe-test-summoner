@@ -1,0 +1,186 @@
+{
+  "1" : {
+    "description" : "",
+    "name" : "Legendary Scroll"
+  },
+  "2" : {
+    "description" : "",
+    "name" : "Scroll of Light and Darkness"
+  },
+  "3" : {
+    "description" : "",
+    "name" : "Fire Scroll"
+  },
+  "4" : {
+    "description" : "",
+    "name" : "Water Scroll"
+  },
+  "5" : {
+    "description" : "",
+    "name" : "Wind Scroll"
+  },
+  "6" : {
+    "description" : "",
+    "name" : "Secret Dungeon"
+  },
+  "7" : {
+    "description" : "",
+    "name" : "Garen Forest"
+  },
+  "8" : {
+    "description" : "",
+    "name" : "Mt. Siz"
+  },
+  "9" : {
+    "description" : "",
+    "name" : "Kabir Ruins"
+  },
+  "10" : {
+    "description" : "",
+    "name" : "Mt. White Ragon"
+  },
+  "11" : {
+    "description" : "",
+    "name" : "Telain Forest"
+  },
+  "12" : {
+    "description" : "",
+    "name" : "Hydeni Ruins"
+  },
+  "13" : {
+    "description" : "",
+    "name" : "Tamor Desert"
+  },
+  "14" : {
+    "description" : "",
+    "name" : "Vrofagus Ruins"
+  },
+  "15" : {
+    "description" : "",
+    "name" : "Faimon Volcano"
+  },
+  "16" : {
+    "description" : "",
+    "name" : "Aiden Forest"
+  },
+  "17" : {
+    "description" : "",
+    "name" : "Ferun Castle"
+  },
+  "18" : {
+    "description" : "",
+    "name" : "Mt. Runar"
+  },
+  "19" : {
+    "description" : "",
+    "name" : "Chiruka Remains"
+  },
+  "20" : {
+    "description" : "",
+    "name" : "Glory Shop"
+  },
+  "21" : {
+    "description" : "",
+    "name" : "Trial of Ascension"
+  },
+  "22" : {
+    "description" : "",
+    "name" : "Devilmon Cave"
+  },
+  "23" : {
+    "description" : "",
+    "name" : "Rainbow Garden"
+  },
+  "24" : {
+    "description" : "",
+    "name" : "Guild Shop"
+  },
+  "25" : {
+    "description" : "",
+    "name" : "Hall of Dark"
+  },
+  "26" : {
+    "description" : "",
+    "name" : "Hall of Fire"
+  },
+  "27" : {
+    "description" : "",
+    "name" : "Hall of Light"
+  },
+  "28" : {
+    "description" : "",
+    "name" : "Hall of Water"
+  },
+  "29" : {
+    "description" : "",
+    "name" : "Hall of Wind"
+  },
+  "30" : {
+    "description" : "",
+    "name" : "Angel Garden"
+  },
+  "31" : {
+    "description" : "",
+    "name" : "Fusion"
+  },
+  "32" : {
+    "description" : "",
+    "name" : "Magic Shop"
+  },
+  "33" : {
+    "description" : "",
+    "name" : "Special Event"
+  },
+  "34" : {
+    "description" : "",
+    "name" : "Mystical Scroll or Crystal Summon"
+  },
+  "35" : {
+    "description" : "",
+    "name" : "Unknown Scroll or Social Summon"
+  },
+  "36" : {
+    "description" : "A server wide boss that is unlocked after completing a Dimensional Rift. Rewards are random and the number of rewards is based on the rank you achieve. ",
+    "name" : "World Boss"
+  },
+  "37" : {
+    "description" : "Purchase made with real currency through the in-game store. ",
+    "name" : "In-App Purchase"
+  },
+  "38" : {
+    "description" : "",
+    "name" : "Hall of Magic"
+  },
+  "39" : {
+    "description" : "",
+    "name" : "Giant's Keep"
+  },
+  "40" : {
+    "description" : "",
+    "name" : "Dragon's Lair"
+  },
+  "41" : {
+    "description" : "",
+    "name" : "Necropolis"
+  },
+  "42" : {
+    "description" : "",
+    "name" : "Ice Beast"
+  },
+  "43" : {
+    "description" : "",
+    "name" : "Fire Beast"
+  },
+  "44" : {
+    "description" : "",
+    "name" : "Wind Beast"
+  },
+  "45" : {
+    "description" : "",
+    "name" : "Light Beast"
+  },
+  "46" : {
+    "description" : "",
+    "name" : "Dark Beast"
+  }
+}
