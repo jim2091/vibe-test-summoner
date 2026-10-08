@@ -188,6 +188,20 @@ public class CandidateIntegrityValidator {
 		ValidationState state =
 				new ValidationState();
 
+		// KO is optional and partial; retain the existing full-coverage EN policy.
+		Path localizationKoDirectory = projectRoot.resolve("data-source/candidate/localization/ko");
+		for (String dataset : KoreanLocalizationValidation.DATASETS) {
+			Path file = localizationKoDirectory.resolve(dataset + ".json");
+			if (Files.exists(file)) {
+				try {
+					KoreanLocalizationValidation.validate(
+							normalizedDirectory.resolve(dataset + ".json"), file, dataset);
+				} catch (Exception failure) {
+					state.errors.add("KO localization validation failed: " + file + ": " + failure.getMessage());
+				}
+			}
+		}
+
 
 		Map<Integer, MonsterData> monsterById =
 				toIdMap(

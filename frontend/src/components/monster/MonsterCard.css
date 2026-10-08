@@ -1,0 +1,138 @@
+.monster-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  border: 1px solid #dce1e8;
+  border-radius: 0.75rem;
+  color: inherit;
+  background: #fff;
+  text-decoration: none;
+}
+
+.monster-card:hover {
+  color: inherit;
+  border-color: #8b9db5;
+  box-shadow: 0 3px 10px rgb(37 48 68 / 8%);
+}
+
+.monster-card:focus-visible {
+  outline: 3px solid #315b93;
+  outline-offset: 3px;
+}
+
+.monster-card-image {
+  display: grid;
+  place-items: center;
+  min-height: 128px;
+  padding: 1rem;
+  background: #edf0f4;
+}
+
+.monster-card-image img {
+  display: block;
+  width: 96px;
+  height: 96px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.monster-card-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 96px;
+  color: #667286;
+  font-size: 0.75rem;
+}
+
+.monster-card-placeholder > span:first-child {
+  font-size: 2rem;
+}
+
+.monster-card-body {
+  padding: 1rem;
+}
+
+.monster-card-name {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.monster-card-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.monster-element {
+  padding: 0.125rem 0.5rem;
+  border-radius: 0.25rem;
+  color: #495568;
+  background: #edf0f4;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.monster-element[data-element='FIRE'] {
+  color: #9b3026;
+  background: #fce9e5;
+}
+
+.monster-element[data-element='WATER'] {
+  color: #225d94;
+  background: #e4f0fb;
+}
+
+.monster-element[data-element='WIND'] {
+  color: #75601b;
+  background: #f8f0ce;
+}
+
+.monster-element[data-element='LIGHT'] {
+  color: #65552b;
+  background: #f5f1e5;
+}
+
+.monster-element[data-element='DARK'] {
+  color: #684487;
+  background: #efe7f8;
+}
+
+.monster-element[data-element='PURE'] {
+  color: #3e6264;
+  background: #e7f1ef;
+}
+
+.monster-stars {
+  color: #826018;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.monster-card-details {
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+.monster-card-details > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+}
+
+.monster-card-details dt {
+  flex-shrink: 0;
+  color: #667286;
+}
+
+.monster-card-details dd {
+  min-width: 0;
+  margin: 0;
+  text-align: right;
+}

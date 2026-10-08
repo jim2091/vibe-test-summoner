@@ -24,6 +24,7 @@ public class MonsterDetailResponse {
 
 	private Integer familyId;
 	private List<Integer> familyMonsterIds;
+	private List<MonsterFamilyMemberResponse> familyMembers;
 
 	private int baseStars;
 	private int naturalStars;

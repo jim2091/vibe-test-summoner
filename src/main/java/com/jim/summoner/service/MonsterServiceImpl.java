@@ -2,6 +2,7 @@ package com.jim.summoner.service;
 
 import java.util.Comparator;
 import java.util.List;
+import java.util.Objects;
 import java.util.Locale;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
@@ -29,6 +30,7 @@ import com.jim.summoner.dto.response.LeaderSkillResponse;
 import com.jim.summoner.dto.response.MonsterAwakeningResponse;
 import com.jim.summoner.dto.response.MonsterBaseStatsResponse;
 import com.jim.summoner.dto.response.MonsterDetailResponse;
+import com.jim.summoner.dto.response.MonsterFamilyMemberResponse;
 import com.jim.summoner.dto.response.MonsterFlagsResponse;
 import com.jim.summoner.dto.response.MonsterListItemResponse;
 import com.jim.summoner.dto.response.MonsterListResponse;
@@ -625,6 +627,7 @@ public class MonsterServiceImpl implements MonsterService {
 				.familyId(
 						monster.getFamilyId()
 				)
+				.familyMembers(getFamilyMembers(monster))
 
 				.familyMonsterIds(
 						getFamilyMonsterIds(
@@ -705,6 +708,29 @@ public class MonsterServiceImpl implements MonsterService {
 	// =========================================================
 	// Family
 	// =========================================================
+
+	private List<MonsterFamilyMemberResponse> getFamilyMembers(MonsterData monster) {
+		return getFamilyMonsterIds(monster).stream()
+				.filter(Objects::nonNull)
+				.map(gameDataStore::getMonster)
+				.filter(Objects::nonNull)
+				.map(member -> {
+					MonsterLocalization ko = gameDataStore.getMonsterLocalizationKo(member.getId());
+					MonsterLocalization en = gameDataStore.getMonsterLocalizationEn(member.getId());
+					return MonsterFamilyMemberResponse.builder()
+							.id(member.getId())
+							.nameKo(ko != null ? ko.getName() : null)
+							.nameEn(en != null ? en.getName() : null)
+							.element(member.getElement())
+							.archetype(member.getArchetype())
+							.naturalStars(member.getNaturalStars())
+							.awakeningStage(member.getAwakening() != null ? member.getAwakening().getStage() : null)
+							.entityType(member.getEntityType())
+							.iconUrl(makeMonsterIconUrl(member))
+							.build();
+				})
+				.toList();
+	}
 
 	private List<Integer> getFamilyMonsterIds(
 			MonsterData monster) {
